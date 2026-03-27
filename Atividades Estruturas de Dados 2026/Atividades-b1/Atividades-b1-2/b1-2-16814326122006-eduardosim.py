@@ -5,7 +5,7 @@
 *          (RPN/pós-fixa)                                 *
 * Autor: Eduardo Sim                                      *
 * Objetivo: Calcular utilizando notação polonesa reversa  *
-* Data: 09/03/2026                                        *
+* Data: 27/03/2026                                        *
 *---------------------------------------------------------*
 '''
 
